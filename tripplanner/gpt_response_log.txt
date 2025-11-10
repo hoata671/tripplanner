@@ -1,0 +1,90 @@
+{
+  "main_destination": "Nha Trang",
+  "destination_description": "Nha Trang, một thành phố nằm ở miền Trung Việt Nam, nổi tiếng với những bãi biển tuyệt đẹp, địa điểm lặn biển và những ngôi chùa cổ kính.",
+  "destination_image_url": "search: Nha Trang",
+  "accommodations": [
+    {
+      "name": "Senkotel Nha Trang",
+      "image": "search: Senkotel Nha Trang",
+      "location": "70-72-74 Phan Chu Trinh, Nha Trang, Vietnam",
+      "link": "https://www.booking.com/hotel/vn/senkotel-nha-trang.en-gb.html?aid=356980"
+    },
+    {
+      "name": "Maple Hotel & Apartment",
+      "image": "search: Maple Hotel & Apartment",
+      "location": "6-8 Phan Chu Trinh, Nha Trang, Vietnam",
+      "link": "https://www.booking.com/hotel/vn/maple-nha-trang.en-gb.html?aid=356980"
+    },
+    {
+      "name": "Aaron Hotel",
+      "image": "search: Aaron Hotel",
+      "location": "2/4 Street, Nha Trang, Vietnam",
+      "link": "https://www.booking.com/hotel/vn/aaron-nha-trang.en-gb.html?aid=356980"
+    }
+  ],
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "stops": [
+        {
+          "name": "Vinpearl Land Nha Trang",
+          "description": "Công viên giải trí lớn nhất Việt Nam, có nhiều trò chơi cảm giác mạnh và khu vực dành cho trẻ em",
+          "map_query": "Vinpearl Land Nha Trang, Vietnam",
+          "estimated_time": "5 hours"
+        },
+        {
+          "name": "Tháp Bà Ponagar",
+          "description": "Ngôi tháp cổ đại của người Chăm, một cơ hội tuyệt vời để tìm hiểu về lịch sử và văn hóa của Việt Nam",
+          "map_query": "Ponagar Tower, Nha Trang, Vietnam",
+          "estimated_time": "2 hours"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "stops": [
+        {
+          "name": "Chợ Đầm Nha Trang",
+          "description": "Chợ truyền thống, nơi bạn có thể mua những mặt hàng địa phương và thực phẩm địa phương",
+          "map_query": "Dam Market, Nha Trang, Vietnam",
+          "estimated_time": "2 hours"
+        },
+        {
+          "name": "Bảo tàng Yersin",
+          "description": "Bảo tàng về đời sống và công việc của Alexandre Yersin, một nhà khoa học Pháp đã góp phần đáng kể vào y học",
+          "map_query": "Yersin Museum, Nha Trang, Vietnam",
+          "estimated_time": "2 hours"
+        },
+        {
+          "name": "Bãi biển Nha Trang",
+          "description": "Bãi biển nổi tiếng với cát trắng mịn và nước biển trong xanh",
+          "map_query": "Nha Trang Beach, Nha Trang, Vietnam",
+          "estimated_time": "2 hours"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "stops": [
+        {
+          "name": "Đảo Hòn Mun",
+          "description": "Đảo nổi tiếng với hoạt động lặn biển, nơi bạn có thể thấy nhiều loại san hô và cá biển",
+          "map_query": "Mun Island, Nha Trang, Vietnam",
+          "estimated_time": "4 hours"
+        },
+        {
+          "name": "Nhà hàng Lang Chai",
+          "description": "Nhà hàng nổi tiếng với hải sản tươi ngon",
+          "map_query": "Lang Chai Restaurant, Nha Trang, Vietnam",
+          "estimated_time": "2 hours"
+        }
+      ]
+    }
+  ],
+  "cost": {
+    "accommodation": 2000000,
+    "food": 1500000,
+    "transport": 1000000,
+    "activities": 1500000
+  }
+}
